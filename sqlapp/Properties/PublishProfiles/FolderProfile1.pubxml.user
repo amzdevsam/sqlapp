@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\samyd\source\repos\sqlapp\sqlapp\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-09-22T01:44:22.1862345Z;True|2022-09-07T08:44:36.4735298-07:00;True|2022-09-05T13:32:29.2161133-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
